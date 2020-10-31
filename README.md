@@ -1,5 +1,4 @@
 # Debugger
-A simple console debugger
 支持功能：  
   支持插件  
   支持反反调试（只写了一种贼鸡儿简单的）  
