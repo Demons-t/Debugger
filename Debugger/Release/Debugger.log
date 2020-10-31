@@ -1,0 +1,42 @@
+﻿  AntiDebug.cpp
+  BreakPoint.cpp
+d:\项目\debugger\git\debugger\breakpoint.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
+  Capstone.cpp
+d:\项目\debugger\git\debugger\capstone.h(18): warning C4091: “typedef ”: 没有声明变量时忽略“_XEDPARSE”的左侧
+d:\项目\debugger\git\debugger\capstone.cpp(74): warning C4477: “scanf_s”: 格式字符串“%X”需要类型“unsigned int *”的参数，但可变参数 1 拥有了类型“ULONGLONG *”
+  d:\项目\debugger\git\debugger\capstone.cpp(74): note: 请考虑在格式字符串中使用“%llX”
+  d:\项目\debugger\git\debugger\capstone.cpp(74): note: 请考虑在格式字符串中使用“%I64X”
+  Debug.cpp
+d:\项目\debugger\git\debugger\capstone.h(18): warning C4091: “typedef ”: 没有声明变量时忽略“_XEDPARSE”的左侧
+d:\项目\debugger\git\debugger\debug.cpp(164): warning C4477: “scanf_s”: 格式字符串“%X”需要类型“unsigned int *”的参数，但可变参数 1 拥有了类型“LPVOID *”
+d:\项目\debugger\git\debugger\debug.cpp(185): warning C4477: “scanf_s”: 格式字符串“%X”需要类型“unsigned int *”的参数，但可变参数 1 拥有了类型“LPVOID *”
+d:\项目\debugger\git\debugger\debug.cpp(191): warning C4477: “scanf_s”: 格式字符串“%X”需要类型“unsigned int *”的参数，但可变参数 1 拥有了类型“LPVOID *”
+d:\项目\debugger\git\debugger\debug.cpp(273): warning C4477: “scanf_s”: 格式字符串“%X”需要类型“unsigned int *”的参数，但可变参数 1 拥有了类型“LPVOID *”
+d:\项目\debugger\git\debugger\debug.cpp(280): warning C4477: “scanf_s”: 格式字符串“%X”需要类型“unsigned int *”的参数，但可变参数 1 拥有了类型“LPVOID *”
+d:\项目\debugger\git\debugger\debug.cpp(287): warning C4477: “scanf_s”: 格式字符串“%X”需要类型“unsigned int *”的参数，但可变参数 1 拥有了类型“LPVOID *”
+  Debugger.cpp
+  EFlags.cpp
+  Memory.cpp
+d:\项目\debugger\git\debugger\capstone.h(18): warning C4091: “typedef ”: 没有声明变量时忽略“_XEDPARSE”的左侧
+  Module.cpp
+d:\项目\debugger\git\debugger\module.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+  PE.cpp
+d:\项目\debugger\git\debugger\pe.cpp(164): warning C4018: “<”: 有符号/无符号不匹配
+d:\项目\debugger\git\debugger\pe.cpp(170): warning C4018: “<”: 有符号/无符号不匹配
+d:\项目\debugger\git\debugger\pe.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
+d:\项目\debugger\git\debugger\pe.cpp(184): warning C4018: “<”: 有符号/无符号不匹配
+d:\项目\debugger\git\debugger\pe.cpp(191): warning C4018: “>=”: 有符号/无符号不匹配
+d:\项目\debugger\git\debugger\pe.cpp(253): warning C4018: “<”: 有符号/无符号不匹配
+d:\项目\debugger\git\debugger\pe.cpp(307): warning C4018: “<”: 有符号/无符号不匹配
+  Plugin.cpp
+  Stack.cpp
+  Symbol.cpp
+d:\项目\debugger\git\debugger\symbol.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+d:\项目\debugger\git\debugger\symbol.cpp(125): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“DWORD”
+d:\项目\debugger\git\debugger\symbol.cpp(132): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“DWORD64”
+  d:\项目\debugger\git\debugger\symbol.cpp(132): note: 请考虑在格式字符串中使用“%llX”
+  d:\项目\debugger\git\debugger\symbol.cpp(132): note: 请考虑在格式字符串中使用“%I64X”
+  正在生成代码
+  All 527 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Debugger.vcxproj -> D:\项目\Debugger\git\Debugger\Release\Debugger.exe
